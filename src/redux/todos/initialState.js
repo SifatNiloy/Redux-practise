@@ -8,6 +8,12 @@ const initialState = [{
     text: 'Learn Redux',
     completed: false,
     color: 'red',
+},
+{
+    id: 3,
+    text: 'Learn NextJs',
+    completed: false,
+    color: 'green',
 }]
 
 export default initialState;
