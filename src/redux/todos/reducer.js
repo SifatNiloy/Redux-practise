@@ -1,5 +1,5 @@
 
-import { initialState } from "./initialState"
+import  initialState  from "./initialState"
 import { ADDED,ALLCOMPLETED,CLEARCOMPLETED,COLORSELECTED,DELETED,TOGGLED } from "./actionTypes";
 
 const nextTodoId=(todos) => {
